@@ -1,0 +1,15 @@
+# Entorno Virtual
+.venv/
+venv/
+env/
+
+# Variables de entorno (Seguridad - Tu API Key)
+.env
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Otros
+.DS_Store
